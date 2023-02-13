@@ -1,0 +1,86 @@
+
+.navbar{
+  padding: 10px;
+  background-color:antiquewhite;
+}
+ h2{
+  text-align: center;
+ }
+.form{
+  padding-left: 15px;
+  
+  font-size:20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  font-style: italic;
+  color:rgb(137, 69, 69);
+  width: 300px;
+  height: 300px;
+}
+img{
+  position: absolute;
+  z-index: -1;
+  height: 91%;
+  width: 100%;
+}
+
+.welcome{
+  margin-left: 30%;
+  font-size: 50px;
+  width: 600px;
+  height: 40px;
+  text-align: center;
+}
+.information{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  font-style: italic;
+  color:black;
+  width: 300px;
+  height: 300px;
+  padding-top: 120px;
+}
+.work{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  color: whitesmoke;
+  width: 1100px;
+  height: 100px;
+  padding-top: 400px;
+}
+.education{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  color:black;
+  width: 800px;
+  height: 300px;
+  padding-top: 20px;
+}
+.languages{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  color:black;
+  width: 800px;
+  height: 300px;
+  padding-top: 20px;
+}
+#facebook {
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  left: 10px;
+  bottom: 20px;
+  display: inline;
+}
+#whatsapp{
+  height: 50px;
+  width: 70px;
+  position: fixed;
+  left: 65px;
+  bottom: 20px;
+  display: inline;
+}
